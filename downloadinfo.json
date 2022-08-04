@@ -1,0 +1,23 @@
+[
+  {
+    "test.debug": {
+      "al_re": "a5230d9596861d4b",
+      "al_in": "afeadae16f5bf207",
+      "al_ba": "6fec33c4df2084d7",
+      "al_na": "c737118287fd73b5",
+
+      "ads_list": ["al"]
+    },
+    "test.debug.editor": {
+      "al_re": "9fe0111e502b0ae3",
+      "al_in": "b22debe693ec74d1",
+      "al_ba": "a82feb6e789019c5",
+
+      "is_id":"1534ffc21",
+
+      "interval":70000,
+
+      "ads_list": ["al", "is"]
+    }
+  }
+]
